@@ -1,295 +1,644 @@
 
 ***
 
-# <projectName>
+<details open><summary><p><b>[Click/tap here to expand/collapse this entire article]</b></p></summary>
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+# Seanpm2001 Style Guides
 
-# By:
+<details open><summary><p><b>[Expand/collapse this section (Title)]</b></p></summary>
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+`2️⃣️0️⃣️0️⃣️1️⃣️[🎨️]📔️ The core repository of all @seanpm2001 style guides.`
 
-### Top
-
-# `README.md`
+</details> <!-- End of title section !-->
 
 ***
 
-## Read this article in a different language
+## Programming language style guides
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+<details open><summary><p><b>[Click/tap here to expand/collapse the programming language style guides section]</b></p></summary>
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+> `(Prog)` stands for programming language
+
+### A (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (A)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:A section !-->
+
+### B (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (B)]</b></p></summary>
+
+- [:octocat: `Boo style guide`](https://github.com/seanpm2001/Seanpm2001_Boo_Style-Guide/)
+
+</details> <!-- End of prog:B section !-->
+
+### C (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (C)]</b></p></summary>
+
+- [:octocat: `C style guide`](https://github.com/seanpm2001/Seanpm2001_C_Style-Guide/)
+- [:octocat: `C++ style guide`](https://github.com/seanpm2001/Seanpm2001_CPlusPlus_Style-Guide/)
+
+</details> <!-- End of prog:C section !-->
+
+### D (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (D)]</b></p></summary>
+
+- [:octocat: `D style guide`](https://github.com/seanpm2001/Seanpm2001_D_Style-Guide/)
+
+</details> <!-- End of prog:D section !-->
+
+### E (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (E)]</b></p></summary>
+
+- [:octocat: `Elixir style guide`](https://github.com/seanpm2001/Seanpm2001_Elixir_Style-Guide/)
+
+</details> <!-- End of prog:E section !-->
+
+### F (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (F)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:F section !-->
+
+### G (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (G)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:G section !-->
+
+### H (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (H)]</b></p></summary>
+
+- [:octocat: `Haskell style guide`](https://github.com/seanpm2001/Seanpm2001_Haskell_Style-Guide/)
+- [:octocat: `HTML style guide`](https://github.com/seanpm2001/Seanpm2001_HTML_Style-Guide/)
+
+</details> <!-- End of prog:H section !-->
+
+### I (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (I)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:I section !-->
+
+### J (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (J)]</b></p></summary>
+
+- [:octocat: `Java style guide`](https://github.com/seanpm2001/Seanpm2001_Java_Style-Guide/)
+- [:octocat: `JavaScript style guide`](https://github.com/seanpm2001/Seanpm2001_JavaScript_Style-Guide/)
+- [:octocat: `Julia style guide`](https://github.com/seanpm2001/Seanpm2001_Julia_Style-Guide/)
+
+</details> <!-- End of prog:J section !-->
+
+### K (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (K)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:K section !-->
+
+### L (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (L)]</b></p></summary>
+
+- [:octocat: `Lua style guide`](https://github.com/seanpm2001/Seanpm2001_Lua_Style-Guide/)
+
+</details> <!-- End of prog:L section !-->
+
+### M (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (M)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:M section !-->
+
+### N (Prog)
+
+<details open><summary><p><b>[Expand/collapse this section (N)]</b></p></summary>
+
+- [:octocat: `Nim style guide`](https://github.com/seanpm2001/Seanpm2001_Nim_Style-Guide/)
+
+</details> <!-- End of prog:N section !-->
+
+### O (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (O)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:O section !-->
+
+### P (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (P)]</b></p></summary>
+
+- [:octocat: `Pascal style guide`](https://github.com/seanpm2001/Seanpm2001_Pascal_Style-Guide/)
+- [:octocat: `Perl style guide`](https://github.com/seanpm2001/Seanpm2001_Perl_Style-Guide/)
+- [:octocat: `PHP style guide`](https://github.com/seanpm2001/Seanpm2001_PHP_Style-Guide/)
+- [:octocat: `Python style guide`](https://github.com/seanpm2001/Seanpm2001_Python_Style-Guide/)
+
+</details> <!-- End of prog:P section !-->
+
+### Q (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (Q)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:Q section !-->
+
+### R (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (R)]</b></p></summary>
+
+- [:octocat: `R style guide`](https://github.com/seanpm2001/Seanpm2001_R_Style-Guide/)
+- [:octocat: `Raku style guide`](https://github.com/seanpm2001/Seanpm2001_Raku_Style-Guide/)
+- [:octocat: `Red style guide`](https://github.com/seanpm2001/Seanpm2001_Red_Style-Guide/)
+- [:octocat: `Rust style guide`](https://github.com/seanpm2001/Seanpm2001_Rust_Style-Guide/)
+
+</details> <!-- End of prog:R section !-->
+
+### S (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (S)]</b></p></summary>
+
+- [:octocat: `Scala style guide`](https://github.com/seanpm2001/Seanpm2001_Scala_Style-Guide/)
+- [:octocat: `Shell style guide`](https://github.com/seanpm2001/Seanpm2001_Shell_Style-Guide/)
+- [:octocat: `Swift style guide`](https://github.com/seanpm2001/Seanpm2001_Swift_Style-Guide/)
+
+</details> <!-- End of prog:S section !-->
+
+### T (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (T)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:T section !-->
+
+### U (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (U)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:U section !-->
+
+### V (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (V)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:V section !-->
+
+### W (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (W)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:W section !-->
+
+### X (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (X)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:X section !-->
+
+### Y (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (Y)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:Y section !-->
+
+### Z (prog)
+
+<details open><summary><p><b>[Expand/collapse this section (Z)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of prog:Z section !-->
+
+</details> <!-- End of programming language style guides section !-->
+
+<!-- Early development notes
+- [:octocat: `Boo style guide`](https://github.com/seanpm2001/Seanpm2001_Boo_Style-Guide/)
+- [:octocat: `C style guide`](https://github.com/seanpm2001/Seanpm2001_C_Style-Guide/)
+- [:octocat: `C++ style guide`](https://github.com/seanpm2001/Seanpm2001_CPlusPlus_Style-Guide/)
+- [:octocat: `D style guide`](https://github.com/seanpm2001/Seanpm2001_D_Style-Guide/)
+- [:octocat: `Elixir style guide`](https://github.com/seanpm2001/Seanpm2001_Elixir_Style-Guide/)
+- [:octocat: `Haskell style guide`](https://github.com/seanpm2001/Seanpm2001_Haskell_Style-Guide/)
+- [:octocat: `HTML style guide`](https://github.com/seanpm2001/Seanpm2001_HTML_Style-Guide/)
+- [:octocat: `Java style guide`](https://github.com/seanpm2001/Seanpm2001_Java_Style-Guide/)
+- [:octocat: `JavaScript style guide`](https://github.com/seanpm2001/Seanpm2001_JavaScript_Style-Guide/)
+- [:octocat: `Julia style guide`](https://github.com/seanpm2001/Seanpm2001_Julia_Style-Guide/)
+- [:octocat: `Lua style guide`](https://github.com/seanpm2001/Seanpm2001_Lua_Style-Guide/)
+- [:octocat: `Nim style guide`](https://github.com/seanpm2001/Seanpm2001_Nim_Style-Guide/)
+- [:octocat: `Pascal style guide`](https://github.com/seanpm2001/Seanpm2001_Pascal_Style-Guide/)
+- [:octocat: `Perl style guide`](https://github.com/seanpm2001/Seanpm2001_Perl_Style-Guide/)
+- [:octocat: `PHP style guide`](https://github.com/seanpm2001/Seanpm2001_PHP_Style-Guide/)
+- [:octocat: `Python style guide`](https://github.com/seanpm2001/Seanpm2001_Python_Style-Guide/)
+- [:octocat: `R style guide`](https://github.com/seanpm2001/Seanpm2001_R_Style-Guide/)
+- [:octocat: `Raku style guide`](https://github.com/seanpm2001/Seanpm2001_Raku_Style-Guide/)
+- [:octocat: `Red style guide`](https://github.com/seanpm2001/Seanpm2001_Red_Style-Guide/)
+- [:octocat: `Scala style guide`](https://github.com/seanpm2001/Seanpm2001_Scala_Style-Guide/)
+- [:octocat: `Shell style guide`](https://github.com/seanpm2001/Seanpm2001_Shell_Style-Guide/)
+- [:octocat: `Swift style guide`](https://github.com/seanpm2001/Seanpm2001_Swift_Style-Guide/)
+
+Boo ✅️
+C++ ✅️
+C ✅️
+D ✅️
+Elixir ✅️
+Haskell ✅️
+HTML ✅️
+JavaScript ✅️
+Java ✅️
+Julia ✅️
+Lua ✅️
+Nim ✅️
+Pascal ✅️
+Perl ✅️
+PHP ✅️
+Python ✅️
+Raku ✅️
+Red ✅️
+R ✅️
+Ruby ✅️
+Rust ❌️
+Scala ✅️
+Shell ✅️
+Swift ✅️
+
+!-->
 
 ***
 
-# Index
+## Software tool style guides
 
-[00.0 - Top](#Top)
+<details open><summary><p><b>[Click/tap here to expand/collapse the software tool style guides section]</b></p></summary>
 
-> [00.1 - Title](#<projectName>)
+> `(st)` stands for software tool
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+### A (st)
 
-> [00.3 - Index](#Index)
+<details open><summary><p><b>[Expand/collapse this section (A)]</b></p></summary>
 
-[01.0 - Description](#RepositoryName)
+- This section is currently empty
 
-[02.0 - About](#About)
+</details> <!-- End of st:A section !-->
 
-[03.0 - Wiki](#Wiki)
+### B (st)
 
-[04.0 - Version history](#Version-history)
+<details open><summary><p><b>[Expand/collapse this section (B)]</b></p></summary>
 
-[05.0 - Software status](#Software-status)
+- This section is currently empty
 
-[06.0 - Sponsor info](#Sponsor-info)
+</details> <!-- End of st:B section !-->
 
-[07.0 - Contributers](#Contributers)
+### C (st)
 
-[08.0 - Issues](#Issues)
+<details open><summary><p><b>[Expand/collapse this section (C)]</b></p></summary>
 
-> [08.1 - Current issues](#Current-issues)
+- This section is currently empty
 
-> [08.2 - Past issues](#Past-issues)
+</details> <!-- End of st:C section !-->
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+### D (st)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+<details open><summary><p><b>[Expand/collapse this section (D)]</b></p></summary>
 
-[09.0 - Resources](#Resources)
+- This section is currently empty
 
-[10.0 - Contributing](#Contributing)
+</details> <!-- End of st:D section !-->
 
-[11.0 - About README](#About-README)
+### E (st)
 
-[12.0 - README Version history](#README-version-history)
+<details open><summary><p><b>[Expand/collapse this section (E)]</b></p></summary>
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+- This section is currently empty
 
-> [13.1 - End of file](#EOF)
+</details> <!-- End of st:E section !-->
+
+### F (st)
+
+<details open><summary><p><b>[Expand/collapse this section (F)]</b></p></summary>
+
+- [:octocat: `Fork (Git) style guide`](https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide/)
+
+</details> <!-- End of st:F section !-->
+
+### G (st)
+
+<details open><summary><p><b>[Expand/collapse this section (G)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:G section !-->
+
+### H (st)
+
+<details open><summary><p><b>[Expand/collapse this section (H)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:H section !-->
+
+### I (st)
+
+<details open><summary><p><b>[Expand/collapse this section (I)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:I section !-->
+
+### J (st)
+
+<details open><summary><p><b>[Expand/collapse this section (J)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:J section !-->
+
+### K (st)
+
+<details open><summary><p><b>[Expand/collapse this section (K)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:K section !-->
+
+### L (st)
+
+<details open><summary><p><b>[Expand/collapse this section (L)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:L section !-->
+
+### M (st)
+
+<details open><summary><p><b>[Expand/collapse this section (M)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:M section !-->
+
+### N (st)
+
+<details open><summary><p><b>[Expand/collapse this section (N)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:N section !-->
+
+### O (st)
+
+<details open><summary><p><b>[Expand/collapse this section (O)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:O section !-->
+
+### P (st)
+
+<details open><summary><p><b>[Expand/collapse this section (P)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:P section !-->
+
+### Q (st)
+
+<details open><summary><p><b>[Expand/collapse this section (Q)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:Q section !-->
+
+### R (st)
+
+<details open><summary><p><b>[Expand/collapse this section (R)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:R section !-->
+
+### S (st)
+
+<details open><summary><p><b>[Expand/collapse this section (S)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:S section !-->
+
+### T (st)
+
+<details open><summary><p><b>[Expand/collapse this section (T)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:T section !-->
+
+### U (st)
+
+<details open><summary><p><b>[Expand/collapse this section (U)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:U section !-->
+
+### V (st)
+
+<details open><summary><p><b>[Expand/collapse this section (V)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:V section !-->
+
+### W (st)
+
+<details open><summary><p><b>[Expand/collapse this section (W)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:W section !-->
+
+### X (st)
+
+<details open><summary><p><b>[Expand/collapse this section (X)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:X section !-->
+
+### Y (st)
+
+<details open><summary><p><b>[Expand/collapse this section (Y)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:Y section !-->
+
+### Z (st)
+
+<details open><summary><p><b>[Expand/collapse this section (Z)]</b></p></summary>
+
+- This section is currently empty
+
+</details> <!-- End of st:Z section !-->
+
+</details> <!-- End of software tool style guides section !-->
 
 ***
 
-# <repoName>
-<repo_description>
+## See also
+
+<details open><summary><p><b>[Expand/collapse this section (See also)]</b></p></summary>
+
+- [:octocat: `seanpm2001:Manual of Style (MoS)`](https://github.com/seanpm2001/Seanpm2001-Manual-of-Style/)
+
+</details> <!-- End of see also section !-->
 
 ***
 
-## About
+## File info
 
-See above. <extendedRepoDescription>
+<details open><summary><p><b>[Expand/collapse this section (File info)]</b></p></summary>
 
-***
+- **File type:** `Markdown source file (*.md)`
+- **File version:** `1 (2023, Thursday, December 21st at 01:31 pm PST)`
+- **Line count (including blank lines and compiler line):** `645`
 
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+</details> <!-- End of file info section !-->
 
 ***
 
-## Sponsor info
+## File history
 
-![SponsorButton.png](SponsorButton.png)
+<details open><summary><p><b>[Expand/collapse this section (File history)]</b></p></summary>
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+### Version 1 (2023, Thursday, December 21st at 1:31 pm PST)
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+<details><summary><p><b>[Click/tap here to expand/collapse the entry for version 1]</b></p></summary>
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Started the file
+- [x] Started the file
+- [x] Made all sections collapse-capable
+- [x] Added the title section
+- [x] Added the `Programming language style guides` section
+- - [x] Added the `A (prog)` subsection
+- - [x] Added the `B (prog)` subsection
+- - [x] Added the `C (prog)` subsection
+- - [x] Added the `D (prog)` subsection
+- - [x] Added the `E (prog)` subsection
+- - [x] Added the `F (prog)` subsection
+- - [x] Added the `G (prog)` subsection
+- - [x] Added the `H (prog)` subsection
+- - [x] Added the `I (prog)` subsection
+- - [x] Added the `J (prog)` subsection
+- - [x] Added the `K (prog)` subsection
+- - [x] Added the `L (prog)` subsection
+- - [x] Added the `M (prog)` subsection
+- - [x] Added the `N (prog)` subsection
+- - [x] Added the `O (prog)` subsection
+- - [x] Added the `P (prog)` subsection
+- - [x] Added the `Q (prog)` subsection
+- - [x] Added the `R (prog)` subsection
+- - [x] Added the `S (prog)` subsection
+- - [x] Added the `T (prog)` subsection
+- - [x] Added the `U (prog)` subsection
+- - [x] Added the `V (prog)` subsection
+- - [x] Added the `W (prog)` subsection
+- - [x] Added the `X (prog)` subsection
+- - [x] Added the `Y (prog)` subsection
+- - [x] Added the `Z (prog)` subsection
+- [x] Added the `Software tools` style guides` section
+- - [x] Added the `A (st)` subsection
+- - [x] Added the `B (st)` subsection
+- - [x] Added the `C (st)` subsection
+- - [x] Added the `D (st)` subsection
+- - [x] Added the `E (st)` subsection
+- - [x] Added the `F (st)` subsection
+- - [x] Added the `G (st)` subsection
+- - [x] Added the `H (st)` subsection
+- - [x] Added the `I (st)` subsection
+- - [x] Added the `J (st)` subsection
+- - [x] Added the `K (st)` subsection
+- - [x] Added the `L (st)` subsection
+- - [x] Added the `M (st)` subsection
+- - [x] Added the `N (st)` subsection
+- - [x] Added the `O (st)` subsection
+- - [x] Added the `P (st)` subsection
+- - [x] Added the `Q (st)` subsection
+- - [x] Added the `R (st)` subsection
+- - [x] Added the `S (st)` subsection
+- - [x] Added the `T (st)` subsection
+- - [x] Added the `U (st)` subsection
+- - [x] Added the `V (st)` subsection
+- - [x] Added the `W (st)` subsection
+- - [x] Added the `X (st)` subsection
+- - [x] Added the `Y (st)` subsection
+- - [x] Added the `Z (st)` subsection
+- [x] Added the `See also` section
+- [x] Added the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 1
+- [x] Added the `Footer` section
+- [ ] No other changes in version 1
 
-> * Added the title section
+</details> <!-- End of file history:version 1 entry section !-->
 
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+</details> <!-- End of file history section !-->
 
 ***
 
-### You have reached the end of the README file
+# Footer
 
-[Back to top](#Top) [Exit](https://github.com)
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
 
-### EOF
+**You have reached the end of this file.**
+
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
+
+###### [EOF](#EOF)
+
+<!-- EOF:
+End
+Of
+File
+!-->
+
+</details> <!-- End of footer !-->
+
+</details> <!-- End of article !-->
 
 ***
